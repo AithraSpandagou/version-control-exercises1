@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 adding other data here
+=======
+test test
+test
+test
+>>>>>>> 9a489bb1bcdfeaee2157dd40058a0bba4b32e2e1
